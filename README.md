@@ -37,6 +37,7 @@ The hybrid approach allows for easy scaling. NoSQL handles high-volume writes, w
 Users can easily add new interaction types without schema changes in the NoSQL portion.
 Complex aggregations and analytics can be performed efficiently using SQL.
 
+---
 
 By combining the strengths of both SQL and NoSQL databases, KonohaDB provides a powerful solution for web applications requiring transactional functionalities, scalability, and flexible data models. 
 
