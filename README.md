@@ -33,10 +33,12 @@ When displaying a post, the application queries the SQL table for current likes 
 This approach leverages SQL's strengths in handling complex queries and maintaining referential integrity.
 ### Scalability:
 The hybrid approach allows for easy scaling. NoSQL handles high-volume writes, while SQL optimizes read-heavy operations.
-## Flexibility:
+### Flexibility:
 Users can easily add new interaction types without schema changes in the NoSQL portion.
 Complex aggregations and analytics can be performed efficiently using SQL.
+
+
 By combining the strengths of both SQL and NoSQL databases, KonohaDB provides a powerful solution for web applications requiring transactional functionalities, scalability, and flexible data models. 
 
-More coming soon...
+We appreciate your patience as we are working to add more soon...
 
